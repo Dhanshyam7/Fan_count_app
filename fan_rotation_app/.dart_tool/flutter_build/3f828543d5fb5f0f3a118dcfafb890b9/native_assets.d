@@ -1,0 +1,1 @@
+ D:\\fan\\fan_rotation_app\\.dart_tool\\flutter_build\\3f828543d5fb5f0f3a118dcfafb890b9\\native_assets.yaml: 
